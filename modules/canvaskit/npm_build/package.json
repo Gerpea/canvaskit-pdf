@@ -1,5 +1,5 @@
 {
-  "name": "canvaskit-wasm",
+  "name": "canvaskit-wasm-pdf",
   "version": "0.41.0",
   "description": "A WASM version of Skia's Canvas API",
   "main": "bin/canvaskit.js",
